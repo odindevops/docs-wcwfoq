@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-kmpv94.leogaming.cfd/sitemap.xml
